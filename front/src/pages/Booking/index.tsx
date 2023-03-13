@@ -15,7 +15,7 @@ export const BookingPage = () => {
 
   return (
     <>
-      <h1>Booking Page</h1>
+      <h1>Booking Page test</h1>
       <button onClick={handleButtonClick}>Get Times</button>
     </>
   );
