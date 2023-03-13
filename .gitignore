@@ -4,3 +4,4 @@ yarn-error.log
 */build
 package-lock.json
 yarn.lock
+./front/.env
